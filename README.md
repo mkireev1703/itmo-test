@@ -6,4 +6,6 @@ Text
 > Hi, Mark
 
 
-`python3`
+```python3
+import pandas as pd
+```
